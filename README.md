@@ -1,5 +1,7 @@
 # DataLinkMySQL - UE5 MySQL Database Plugin
 
+[Buy on fab.com](https://www.fab.com/zh-cn/listings/dd8551bd-cc48-42c4-831d-6a2480dee9d5)
+
 This is a MySQL database connection plugin developed for Unreal Engine 5, implemented based on the libmariadb library, providing complete MySQL database operation functionality.
 
 ## Features
